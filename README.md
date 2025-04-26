@@ -32,4 +32,13 @@
 
 ## 📈 GitHub Stats
 
-![irina410's GitHub stats](https://github-readme-stats.vercel.app/api?username=irina410&show_icons=true&theme=tokyonight)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irina410&layout=compact&theme=tokyonight&hide=c%2B%2B,html,css" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=irina410&show_icons=true&theme=tokyonight&hide_title=true" />
+    </td>
+  </tr>
+</table>
